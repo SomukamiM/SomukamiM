@@ -9,17 +9,17 @@
 
 <!-- TO DO: add more details about me later -->
 
-Hi, I'm Mona. You might recognize me as GitHub's mascot.
+Hi, I'm Mary Omukami. You might recognize me as a Data Analyst.
 
 
 <details>
-<summary>My Top Languages</summary>
+<summary>My Top Programming Languages</summary>
 
 | Rank | Languages     |
 |-----:|---------------|
-|     1|english        |
-|     2|kiswahili      |
-|     3|luhya          |
+|     1|Python         |
+|     2|MySQL          |
+|     3|R              |
 
 </details>
 
